@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello word! 👋
 
 <!--
 **erikbryanxxs/erikbryanxxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
